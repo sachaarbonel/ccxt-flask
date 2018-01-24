@@ -6,8 +6,7 @@
 
 - Python 3.6.3
 - ccxt-1.10.810
-- plotly-2.2.3
-- pandas-datareader 0.5.0
+- pandas-0.22.0
 
 ## Installation
 
