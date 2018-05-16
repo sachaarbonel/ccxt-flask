@@ -1,0 +1,10 @@
+{
+    "name": "Heroku Basic Flask",
+    "description": "A sample Flask app on Heroku",
+    "keywords": [
+      "flask",
+      "python",
+      "sample"
+    ],
+    "repository": "https://github.com/Sach97/ccxt-flask"
+  }

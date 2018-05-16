@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/Sach97/ccxt-flask.svg?branch=master)](https://travis-ci.org/Sach97/ccxt-flask)
-
 # Introduction
 
 ## Dependencies
@@ -8,7 +6,11 @@
 - ccxt-1.10.810
 - flask 0.12.2
 
-## Installation
+## Installation
 
 pip install -r requirements.txt
+
+## Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
