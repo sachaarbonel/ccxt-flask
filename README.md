@@ -6,9 +6,9 @@
 
 - Python 3.6.3
 - ccxt-1.10.810
-- pandas-0.22.0
-- feather-format-0.4.0
+- flask 0.12.2
 
 ## Installation
 
+pip install -r requirements.txt
 
