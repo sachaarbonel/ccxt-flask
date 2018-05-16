@@ -8,7 +8,7 @@ for id in ccxt.exchanges:
     exchange = getattr(ccxt, id)
     exchanges[id] = exchange()
 
-@app.route('ticker/<exchange>/<symbol1>/<symbol2>', methods=['GET'])
+@app.route('/ticker/<exchange>/<symbol1>/<symbol2>', methods=['GET'])
 def get_ohlcv(exchange,symbol1,symbol2):
     return jsonify(exchanges[exchange].fetch_ohlcv(symbol1+"/"+symbol2))
 # now exchanges dictionary contains all exchange instances...
