@@ -14,3 +14,7 @@ pip install -r requirements.txt
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## TODOs
+
+- [ ] More endpoints
+
